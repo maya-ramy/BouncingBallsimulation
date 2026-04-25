@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BouncingBallsimulation/BouncingBallsimulation.vcxproj" Id="ff2569b0-c563-465f-addb-7a21e7b42eed" />
+</Solution>
